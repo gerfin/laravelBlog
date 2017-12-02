@@ -11,5 +11,6 @@
 
 仿造简书的模式的一个文章管理系统
 
+-基于elasticSearch的文章搜索
 - [线上访问网址](http://120.78.151.94/laravelBlog/public/login).
 
